@@ -1,17 +1,17 @@
-## React Native / React IS Question
+## React Native / React JS Question
 
 Given a Random User generator API which returns a list of random users for you. The sample response of the API is given below.
 
-Implement a screen with following functionality.<br />
+Implement a screen with the following functionality.<br />
 
-1. Consume the Random User generator API
+1. Consume the Random User Generator API
 2. Show users in a list with first and last name with age
 3. Have four buttons on top of the list
    1. Sort User By Name Ascending or Descending
    2. Show two youngest users
    3. Edit
       1. On clicking the edit button the checkbox should appear in every row
-      2. Once user can select any number of rows
+      2. Once a user can select any number of rows
    4. Delete
       1. Once a user selects a minimum of one row in a list. Please enable the button
       2. On clicking the delete button, remove them selected users items from the list.

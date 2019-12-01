@@ -1,0 +1,20 @@
+.Button {
+  color: black;
+  background-color: aqua;
+}
+.Button.Hidden {
+  visibility: hidden;
+}
+.Button.Active {
+  background-color: greenyellow;
+}
+.UserName {
+  width: 80%;
+}
+.Checkbox {
+  color: black;
+}
+.Checkbox.Opaque {
+  opacity: 0;
+  pointer-events: none;
+}
